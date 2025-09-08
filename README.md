@@ -22,8 +22,20 @@
 **********
 
 ## Excercici 2.4
+
+### Proces per penjar
+
 |    **Comando**   |      **Funció**     |   **Exemple**   |
 |:----------------:|:-------------------:|:----------------:|
 |      add -A      |     Staging area    | Esperant al avio |
 |  commit -m "msj" | Al repositori local |      Al avió     |
 | push origin main |  Del local al remot |      Volant      |
+
+
+### Estats
+
+|  **Comando** |              **Funció**              |
+|:------------:|:------------------------------------:|
+|  git status  | Veure on estem i si esta actualitzat |
+|    git log   |   Per veure el registre de canviis   |
+| git remote-v |    Per veure la connexio al remot    |
