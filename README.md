@@ -4,7 +4,7 @@
 
 *Creem new repositority amb el nom que volem*  
 
-![Mostra de l'excercici 1](IMG/act21.png)
+![Mostra de l'excercici 1](IMG/act211.png)
 **********
 
 ## Excercici 2.2
